@@ -2,46 +2,62 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Polish Cheat Sheet
 
-Let's discover **Docusaurus in less than 5 minutes**.
+## Bezosobowe formy
 
-## Getting Started
+Tworzenie bezosobowych form:
 
-Get started by **creating a new site**.
+1. Z użyciem zaimka `się` i trzeciej osoby liczby mnogiej czasownika (`on/ona/ono`) 
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
-
-### What you'll need
-
-- [Node.js](https://nodejs.org/en/download/) version 20.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
+```md
+`Robisz` dobre wrażenie → `Robi się` dobre wrażenie
 ```
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+2. Z użyciem czasowników [niefleksyjnych](#czasowniki-niefleksyjne), czyli takich, które nie odmieniają się w żaden sposób
 
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
+```md
+`Musisz` to zrobić → `Trzeba` to zrobić
 ```
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+## Czasowniki niefleksyjne
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+Czasowniki niefleksyjne `nie zmieniają swojej formy`. Pozwalają na tworzenie komunikatów neutralnych i bezosobowych. 
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+W trybie przypuszczającym używamy ich stawiając cząstkę `by`  osobno: `trzeba by` / `można by` .
+
+| Bezokolicznik | Forma osobowa | Forma bezosobowa (niefleksyjna) |
+| --- | --- | --- |
+| musieć | musisz | trzeba |
+| móc | możesz | można / wolno |
+| - | powinieneś | należy / powinno się |
+| - | - | warto |
+| wiedzieć | wiesz | wiadomo |
+
+## Liczba mnoga
+
+### Mianownik
+
+#### Rzeczownik
+
+| **Końcówka** | **Występowanie** | **Przykłady** |
+| --- | --- | --- |
+| `-owie` | Rzeczowniki, które są nazwami stopni pokrewieństwa, tytułów i godności oraz niektórych narodowości | syn - synowie<br/> poseł - posłowie <br/> pan - panowie <br/> Fin - Finowie |
+| `-y` | Rzeczowniki: <br/> - zakończone na `-k`, `-g`, `-r` <br/> - zakończone na `-ka`, `-ga` <br/> - zakończone na `-ec`, `-ca` | Polak - Polacy (`k` : `c`) <br/> aktor - aktorzy (`r`: `rz`) <br/> chirurg - chirurdzy (`g`: `dz`)<br/> <br/>Ukrainiec - Ukraińcy <br/> chłopiec - chłopcy <br/> kierowca - kierowcy  |
+| `i` | Rzeczowniki: <br/> - zakończone na [`spółgłoskę twardą`](#spółgłoski-twarde) oprócz: -k, -g, -r. `Tu zawsze występuje alternacja`.<br/>- zakończone na `-a` | student - studenci (`t` : `ci`) <br/> sąsiad - sąsiedzi (`d`: `dzi`) <br/> Francuz - Francuzi (`z`: `zi`) <br/> Włoch - Włosi|
+| `e` | Rzeczowniki:<br/> - zakończone na [`spółgłoskę miękką`](#spółgłoski-miękkie) lub [`stwardniałą`](#spółgłoski-stwardniałe) <br/> - zakończone na `-anin` | gość - goście <br/> przyjaciel - przyjaciele <br/> kibic - kibice <br/> Amerykanin - Amerykanie|
+| `Wyjątki!` |  | brat - bracia (nie braci) <br/> ksiądz - księża (nie ksiądze) <br/> Hiszpan - Hiszpanie (nie Hiszpani) |
+
+## Spółgłoski
+
+### Spółgłoski twarde
+
+b, ch, d, f, g, h, k, ł, m, n, p, r, s, t, w, z
+
+### Spółgłoski miękkie
+
+ś, ć, ź, ń, dź, l, j
+
+### Spółgłoski stwardniałe
+
+c, dz, cz, dż, ż, rz, sz
