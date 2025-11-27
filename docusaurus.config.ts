@@ -40,7 +40,7 @@ const config: Config = {
       'classic',
       {
         docs: {
-          sidebarPath: './sidebars.ts',
+          sidebarPath: false,
           editUrl:
             'https://github.com/valchetski/polish-cheat-sheet/tree/master/',
         },
@@ -65,8 +65,7 @@ const config: Config = {
       },
       items: [
         {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          to: '/docs/intro',
           position: 'left',
           label: 'Docs',
         },
