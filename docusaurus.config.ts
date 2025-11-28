@@ -40,6 +40,7 @@ const config: Config = {
       'classic',
       {
         docs: {
+          routeBasePath: '/',
           sidebarPath: false,
           editUrl:
             'https://github.com/valchetski/polish-cheat-sheet/tree/master/',
@@ -65,9 +66,9 @@ const config: Config = {
       },
       items: [
         {
-          to: '/docs/intro',
+          to: '/about',
           position: 'left',
-          label: 'Docs',
+          label: 'About',
         },
         {
           href: 'https://github.com/valchetski/polish-cheat-sheet',
@@ -78,43 +79,6 @@ const config: Config = {
     },
     footer: {
       style: 'dark',
-      links: [
-        {
-          title: 'Docs',
-          items: [
-            {
-              label: 'Tutorial',
-              to: '/docs/intro',
-            },
-          ],
-        },
-        {
-          title: 'Community',
-          items: [
-            {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'X',
-              href: 'https://x.com/docusaurus',
-            },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'GitHub',
-              href: 'https://github.com/valchetski/polish-cheat-sheet',
-            },
-          ],
-        },
-      ],
       copyright: `Copyright © ${new Date().getFullYear()} Polish Cheat Sheet. Built with Docusaurus.`,
     },
     prism: {
