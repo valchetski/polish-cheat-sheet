@@ -6,7 +6,6 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Polish Cheat Sheet',
-  tagline: 'Polish language most important rules',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -32,7 +31,7 @@ const config: Config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en', 'pl'],
   },
 
   presets: [
@@ -69,6 +68,10 @@ const config: Config = {
           to: '/about',
           position: 'left',
           label: 'About',
+        },
+        {
+          type: 'localeDropdown',
+          position: 'right',
         },
         {
           href: 'https://github.com/valchetski/polish-cheat-sheet',
