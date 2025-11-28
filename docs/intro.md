@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+toc_max_heading_level: 5
 slug: /
 ---
 
@@ -52,8 +53,15 @@ W trybie przypuszczającym używamy ich stawiając cząstkę `by`  osobno: `trze
 </div>
 
 #### Przymiotnik rodzaj męskoosobowy
+
+<div class="table-w-10-55-35">
 | **Końcówka** | **Występowanie** | **Przykłady** |
 | --- | --- | --- |
+| `-i` <br/> `-cy` <br/> `-czy` <br/> `-dzy`| Przymiotniki zakończone na `-i`, `-cy`, `-czy`, `-dzy` mają tę samą końcówkę| ostatni biegacz - ostatni biegacze <br/> obcy człowiek - obcy ludzie <br/> uroczy chłopiec - uroczy chłopcy <br/> cudzy kolega - cudzy koledzy |
+| `-i` | | bogaty - bogaci (`ty`: `ci`) <br/> młody - młodzi (`dy`: `dzi`) <br/> miły - mili (`ły`: `li`)|
+| `-y` | | dobry - dobrzy (`ry`: `rzy`) <br/> wysoki - wysocy (`ki`: `cy`) <br/> długi - dłudzy (`gi`: `dzy`) |
+| `-eni` | Rzeczowniki zakończone na `-ony` | zadowolony - zadowoleni <br/> zmęczony - zmęczeni |
+</div>
 
 ## Spółgłoski
 
