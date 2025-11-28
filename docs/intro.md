@@ -41,13 +41,15 @@ W trybie przypuszczającym używamy ich stawiając cząstkę `by`  osobno: `trze
 
 #### Rzeczownik
 
+<div class="table-w-10-55-35">
 | **Końcówka** | **Występowanie** | **Przykłady** |
 | --- | --- | --- |
 | `-owie` | Rzeczowniki, które są nazwami stopni pokrewieństwa, tytułów i godności oraz niektórych narodowości | syn - synowie<br/> poseł - posłowie <br/> pan - panowie <br/> Fin - Finowie |
 | `-y` | Rzeczowniki: <br/> - zakończone na `-k`, `-g`, `-r` <br/> - zakończone na `-ka`, `-ga` <br/> - zakończone na `-ec`, `-ca` | Polak - Polacy (`k` : `c`) <br/> aktor - aktorzy (`r`: `rz`) <br/> chirurg - chirurdzy (`g`: `dz`)<br/> <br/>Ukrainiec - Ukraińcy <br/> chłopiec - chłopcy <br/> kierowca - kierowcy  |
-| `i` | Rzeczowniki: <br/> - zakończone na [`spółgłoskę twardą`](#spółgłoski-twarde) oprócz: -k, -g, -r. `Tu zawsze występuje alternacja`.<br/>- zakończone na `-a` | student - studenci (`t` : `ci`) <br/> sąsiad - sąsiedzi (`d`: `dzi`) <br/> Francuz - Francuzi (`z`: `zi`) <br/> Włoch - Włosi|
+| `i` | Rzeczowniki: <br/> - zakończone na [`spółgłoskę twardą`](#spółgłoski-twarde) oprócz: `-k`, `-g`, `-r`. `Tu zawsze występuje alternacja`.<br/>- zakończone na `-a` | student - studenci (`t` : `ci`) <br/> sąsiad - sąsiedzi (`d`: `dzi`) <br/> Francuz - Francuzi (`z`: `zi`) <br/> Włoch - Włosi <br/> <br/> poeta - poeci (`t`: `ci`) <br/> turysta - turyści (`st`: `ści`)|
 | `e` | Rzeczowniki:<br/> - zakończone na [`spółgłoskę miękką`](#spółgłoski-miękkie) lub [`stwardniałą`](#spółgłoski-stwardniałe) <br/> - zakończone na `-anin` | gość - goście <br/> przyjaciel - przyjaciele <br/> kibic - kibice <br/> Amerykanin - Amerykanie|
 | `Wyjątki!` |  | brat - bracia (nie braci) <br/> ksiądz - księża (nie ksiądze) <br/> Hiszpan - Hiszpanie (nie Hiszpani) |
+</div>
 
 ## Spółgłoski
 

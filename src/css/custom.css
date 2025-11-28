@@ -28,3 +28,12 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+/* Polish Cheat Sheet custom styles */
+.table-w-10-55-35 {
+  width: 100%;
+  table-layout: fixed;
+}
+.table-w-10-55-35 td:nth-child(1), .table-w-10-55-35 th:nth-child(1) { width: 10%; }
+.table-w-10-55-35 td:nth-child(2), .table-w-10-55-35 th:nth-child(2) { width: 55%; }
+.table-w-10-55-35 td:nth-child(3), .table-w-10-55-35 th:nth-child(3) { width: 35%; }
