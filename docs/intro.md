@@ -6,6 +6,47 @@ slug: /
 
 # Polish Cheat Sheet
 
+## Spółgłoski
+
+### Spółgłoski twarde
+
+b, ch, d, f, g, h, k, ł, m, n, p, r, s, t, w, z
+
+### Spółgłoski miękkie
+
+ś, ć, ź, ń, dź, l, j
+
+### Spółgłoski stwardniałe
+
+c, dz, cz, dż, ż, rz, sz
+
+## Liczba mnoga
+
+### Mianownik
+
+#### Rzeczownik rodzaj męskoosobowy
+
+<div class="table-w-10-55-35">
+| **Końcówka** | **Występowanie** | **Przykłady** |
+| --- | --- | --- |
+| `-owie` | Rzeczowniki, które są nazwami stopni pokrewieństwa, tytułów i godności oraz niektórych narodowości | syn - synowie<br/> poseł - posłowie <br/> pan - panowie <br/> Fin - Finowie |
+| `-y` | Rzeczowniki: <br/> - zakończone na `-k`, `-g`, `-r` <br/> - zakończone na `-ka`, `-ga` <br/> - zakończone na `-ec`, `-ca` | Polak - Polacy (`k` : `c`) <br/> aktor - aktorzy (`r`: `rz`) <br/> chirurg - chirurdzy (`g`: `dz`)<br/> <br/>Ukrainiec - Ukraińcy <br/> chłopiec - chłopcy <br/> kierowca - kierowcy  |
+| `i` | Rzeczowniki: <br/> - zakończone na [`spółgłoskę twardą`](#spółgłoski-twarde) oprócz: `-k`, `-g`, `-r`. `Tu zawsze występuje alternacja`.<br/>- zakończone na `-a` | student - studenci (`t` : `ci`) <br/> sąsiad - sąsiedzi (`d`: `dzi`) <br/> Francuz - Francuzi (`z`: `zi`) <br/> Włoch - Włosi <br/> <br/> poeta - poeci (`t`: `ci`) <br/> turysta - turyści (`st`: `ści`)|
+| `e` | Rzeczowniki:<br/> - zakończone na [`spółgłoskę miękką`](#spółgłoski-miękkie) lub [`stwardniałą`](#spółgłoski-stwardniałe) <br/> - zakończone na `-anin` | gość - goście <br/> przyjaciel - przyjaciele <br/> kibic - kibice <br/> Amerykanin - Amerykanie|
+| `Wyjątki!` |  | brat - bracia (nie braci) <br/> ksiądz - księża (nie ksiądze) <br/> Hiszpan - Hiszpanie (nie Hiszpani) |
+</div>
+
+#### Przymiotnik rodzaj męskoosobowy
+
+<div class="table-w-10-55-35">
+| **Końcówka** | **Występowanie** | **Przykłady** |
+| --- | --- | --- |
+| `-i` <br/> `-cy` <br/> `-czy` <br/> `-dzy`| Przymiotniki zakończone na `-i`, `-cy`, `-czy`, `-dzy` mają tę samą końcówkę| ostatni biegacz - ostatni biegacze <br/> obcy człowiek - obcy ludzie <br/> uroczy chłopiec - uroczy chłopcy <br/> cudzy kolega - cudzy koledzy |
+| `-i` | | bogaty - bogaci (`ty`: `ci`) <br/> młody - młodzi (`dy`: `dzi`) <br/> miły - mili (`ły`: `li`)|
+| `-y` | | dobry - dobrzy (`ry`: `rzy`) <br/> wysoki - wysocy (`ki`: `cy`) <br/> długi - dłudzy (`gi`: `dzy`) |
+| `-eni` | Rzeczowniki zakończone na `-ony` | zadowolony - zadowoleni <br/> zmęczony - zmęczeni |
+</div>
+
 ## Bezosobowe formy
 
 Tworzenie bezosobowych form:
@@ -35,44 +76,3 @@ W trybie przypuszczającym używamy ich stawiając cząstkę `by`  osobno: `trze
 | - | powinieneś | należy / powinno się |
 | - | - | warto |
 | wiedzieć | wiesz | wiadomo |
-
-## Liczba mnoga
-
-### Mianownik
-
-#### Rzeczownik rodzaj męskoosobowy
-
-<div class="table-w-10-55-35">
-| **Końcówka** | **Występowanie** | **Przykłady** |
-| --- | --- | --- |
-| `-owie` | Rzeczowniki, które są nazwami stopni pokrewieństwa, tytułów i godności oraz niektórych narodowości | syn - synowie<br/> poseł - posłowie <br/> pan - panowie <br/> Fin - Finowie |
-| `-y` | Rzeczowniki: <br/> - zakończone na `-k`, `-g`, `-r` <br/> - zakończone na `-ka`, `-ga` <br/> - zakończone na `-ec`, `-ca` | Polak - Polacy (`k` : `c`) <br/> aktor - aktorzy (`r`: `rz`) <br/> chirurg - chirurdzy (`g`: `dz`)<br/> <br/>Ukrainiec - Ukraińcy <br/> chłopiec - chłopcy <br/> kierowca - kierowcy  |
-| `i` | Rzeczowniki: <br/> - zakończone na [`spółgłoskę twardą`](#spółgłoski-twarde) oprócz: `-k`, `-g`, `-r`. `Tu zawsze występuje alternacja`.<br/>- zakończone na `-a` | student - studenci (`t` : `ci`) <br/> sąsiad - sąsiedzi (`d`: `dzi`) <br/> Francuz - Francuzi (`z`: `zi`) <br/> Włoch - Włosi <br/> <br/> poeta - poeci (`t`: `ci`) <br/> turysta - turyści (`st`: `ści`)|
-| `e` | Rzeczowniki:<br/> - zakończone na [`spółgłoskę miękką`](#spółgłoski-miękkie) lub [`stwardniałą`](#spółgłoski-stwardniałe) <br/> - zakończone na `-anin` | gość - goście <br/> przyjaciel - przyjaciele <br/> kibic - kibice <br/> Amerykanin - Amerykanie|
-| `Wyjątki!` |  | brat - bracia (nie braci) <br/> ksiądz - księża (nie ksiądze) <br/> Hiszpan - Hiszpanie (nie Hiszpani) |
-</div>
-
-#### Przymiotnik rodzaj męskoosobowy
-
-<div class="table-w-10-55-35">
-| **Końcówka** | **Występowanie** | **Przykłady** |
-| --- | --- | --- |
-| `-i` <br/> `-cy` <br/> `-czy` <br/> `-dzy`| Przymiotniki zakończone na `-i`, `-cy`, `-czy`, `-dzy` mają tę samą końcówkę| ostatni biegacz - ostatni biegacze <br/> obcy człowiek - obcy ludzie <br/> uroczy chłopiec - uroczy chłopcy <br/> cudzy kolega - cudzy koledzy |
-| `-i` | | bogaty - bogaci (`ty`: `ci`) <br/> młody - młodzi (`dy`: `dzi`) <br/> miły - mili (`ły`: `li`)|
-| `-y` | | dobry - dobrzy (`ry`: `rzy`) <br/> wysoki - wysocy (`ki`: `cy`) <br/> długi - dłudzy (`gi`: `dzy`) |
-| `-eni` | Rzeczowniki zakończone na `-ony` | zadowolony - zadowoleni <br/> zmęczony - zmęczeni |
-</div>
-
-## Spółgłoski
-
-### Spółgłoski twarde
-
-b, ch, d, f, g, h, k, ł, m, n, p, r, s, t, w, z
-
-### Spółgłoski miękkie
-
-ś, ć, ź, ń, dź, l, j
-
-### Spółgłoski stwardniałe
-
-c, dz, cz, dż, ż, rz, sz
