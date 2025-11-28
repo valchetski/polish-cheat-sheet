@@ -39,7 +39,7 @@ W trybie przypuszczającym używamy ich stawiając cząstkę `by`  osobno: `trze
 
 ### Mianownik
 
-#### Rzeczownik
+#### Rzeczownik rodzaj męskoosobowy
 
 <div class="table-w-10-55-35">
 | **Końcówka** | **Występowanie** | **Przykłady** |
@@ -50,6 +50,10 @@ W trybie przypuszczającym używamy ich stawiając cząstkę `by`  osobno: `trze
 | `e` | Rzeczowniki:<br/> - zakończone na [`spółgłoskę miękką`](#spółgłoski-miękkie) lub [`stwardniałą`](#spółgłoski-stwardniałe) <br/> - zakończone na `-anin` | gość - goście <br/> przyjaciel - przyjaciele <br/> kibic - kibice <br/> Amerykanin - Amerykanie|
 | `Wyjątki!` |  | brat - bracia (nie braci) <br/> ksiądz - księża (nie ksiądze) <br/> Hiszpan - Hiszpanie (nie Hiszpani) |
 </div>
+
+#### Przymiotnik rodzaj męskoosobowy
+| **Końcówka** | **Występowanie** | **Przykłady** |
+| --- | --- | --- |
 
 ## Spółgłoski
 
