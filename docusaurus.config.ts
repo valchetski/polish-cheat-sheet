@@ -44,10 +44,20 @@ const config: Config = {
           editUrl:
             'https://github.com/valchetski/polish-cheat-sheet/tree/master/',
         },
+        blog: false,
         theme: {
           customCss: './src/css/custom.css',
         },
       } satisfies Preset.Options,
+    ],
+  ],
+
+  plugins: [
+    [
+      "@cmfcmf/docusaurus-search-local",
+      {
+        indexBlog: false,
+      },
     ],
   ],
 
@@ -68,6 +78,10 @@ const config: Config = {
           to: '/about',
           position: 'left',
           label: 'About',
+        },
+        {
+          type: 'search',
+          position: 'right',
         },
         {
           type: 'localeDropdown',
