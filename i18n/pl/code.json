@@ -4,5 +4,8 @@
   },
   "about.cta": {
     "message": "Sprawdź to"
+  },
+  "about.pageTitle": {
+    "message": "O stronie"
   }
 }

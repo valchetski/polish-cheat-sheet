@@ -5,7 +5,7 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import Features from '@site/src/components/Features';
 import Heading from '@theme/Heading';
-import Translate from '@docusaurus/Translate';
+import Translate, { translate } from '@docusaurus/Translate';
 
 import styles from './about.module.css';
 
@@ -31,10 +31,9 @@ function Header() {
 }
 
 export default function About(): ReactNode {
-  const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
+      title={translate({id: 'about.pageTitle', message: 'About'})}
       description="Description will go into a meta tag in <head />">
       <Header />
       <main>

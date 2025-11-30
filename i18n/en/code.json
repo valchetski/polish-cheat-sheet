@@ -331,5 +331,8 @@
   },
   "about.cta": {
     "message": "Check it out"
+  },
+  "about.pageTitle": {
+    "message": "About"
   }
 }
