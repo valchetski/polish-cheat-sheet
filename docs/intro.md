@@ -31,9 +31,9 @@ c, dz, cz, dż, ż, rz, sz
 | --- | --- | --- |
 | `-owie` | Rzeczowniki, które są nazwami stopni pokrewieństwa, tytułów i godności oraz niektórych narodowości | syn - synowie<br/> poseł - posłowie <br/> pan - panowie <br/> Fin - Finowie |
 | `-y` | Rzeczowniki: <br/> - zakończone na `-k`, `-g`, `-r` <br/> - zakończone na `-ka`, `-ga` <br/> - zakończone na `-ec`, `-ca` | Polak - Polacy (`k` : `c`) <br/> aktor - aktorzy (`r`: `rz`) <br/> chirurg - chirurdzy (`g`: `dz`)<br/> <br/>Ukrainiec - Ukraińcy <br/> chłopiec - chłopcy <br/> kierowca - kierowcy  |
-| `i` | Rzeczowniki: <br/> - zakończone na [`spółgłoskę twardą`](#spółgłoski-twarde) oprócz: `-k`, `-g`, `-r`. `Tu zawsze występuje alternacja`.<br/>- zakończone na `-a` | student - studenci (`t` : `ci`) <br/> sąsiad - sąsiedzi (`d`: `dzi`) <br/> Francuz - Francuzi (`z`: `zi`) <br/> Włoch - Włosi <br/> <br/> poeta - poeci (`t`: `ci`) <br/> turysta - turyści (`st`: `ści`)|
+| `i` | Rzeczowniki: <br/> - zakończone na [`spółgłoskę twardą`](#spółgłoski-twarde) oprócz: `-k`, `-g`, `-r`. `Tu zawsze występuje alternacja`.<br/>- zakończone na `-a` | student - studenci (`t` : `ci`) <br/> sąsiad - sąsiedzi (`d`: `dzi`) <br/> Francuz - Francuzi (`z`: `zi`) <br/> Włoch - Włosi (`ch`: `si`) <br/> <br/> poeta - poeci (`t`: `ci`) <br/> turysta - turyści (`st`: `ści`)|
 | `e` | Rzeczowniki:<br/> - zakończone na [`spółgłoskę miękką`](#spółgłoski-miękkie) lub [`stwardniałą`](#spółgłoski-stwardniałe) <br/> - zakończone na `-anin` | gość - goście <br/> przyjaciel - przyjaciele <br/> kibic - kibice <br/> Amerykanin - Amerykanie|
-| `Wyjątki!` |  | brat - bracia (nie braci) <br/> ksiądz - księża (nie ksiądze) <br/> Hiszpan - Hiszpanie (nie Hiszpani) |
+|  |  `Wyjątki!` | brat - bracia (nie braci) <br/> ksiądz - księża (nie ksiądze) <br/> Hiszpan - Hiszpanie (nie Hiszpani) |
 </div>
 
 #### Przymiotnik rodzaj męskoosobowy
@@ -41,10 +41,11 @@ c, dz, cz, dż, ż, rz, sz
 <div class="table-w-10-55-35">
 | **Końcówka** | **Występowanie** | **Przykłady** |
 | --- | --- | --- |
-| `-i` <br/> `-cy` <br/> `-czy` <br/> `-dzy`| Przymiotniki zakończone na `-i`, `-cy`, `-czy`, `-dzy` mają tę samą końcówkę| ostatni biegacz - ostatni biegacze <br/> obcy człowiek - obcy ludzie <br/> uroczy chłopiec - uroczy chłopcy <br/> cudzy kolega - cudzy koledzy |
-| `-i` | | bogaty - bogaci (`ty`: `ci`) <br/> młody - młodzi (`dy`: `dzi`) <br/> miły - mili (`ły`: `li`)|
-| `-y` | | dobry - dobrzy (`ry`: `rzy`) <br/> wysoki - wysocy (`ki`: `cy`) <br/> długi - dłudzy (`gi`: `dzy`) |
-| `-eni` | Rzeczowniki zakończone na `-ony` | zadowolony - zadowoleni <br/> zmęczony - zmęczeni |
+| `-y`| Po `-k`, `-g`, `-r`, `-c` | dobry - dobrzy (`ry`: `rzy`) <br/> wysoki - wysocy (`ki`: `cy`) <br/> długi - dłudzy (`gi`: `dzy`) |
+|^| Koncówki `-cy`, `-czy`, `-dzy` zostają| obcy człowiek - obcy ludzie <br/> uroczy chłopiec - uroczy chłopcy <br/> cudzy kolega - cudzy koledzy |
+|`-i`| Końcówka `-i` zostaje| ostatni biegacz - ostatni biegacze |
+|^| Przymiotniki zakończone na `-ony` | zadowolony - zadowoleni <br/> zmęczony - zmęczeni |
+|^| W innych przypadkach `zawsze alternacja` | bogaty - bogaci (`ty`: `ci`) <br/> młody - młodzi (`dy`: `dzi`) <br/> miły - mili (`ły`: `li`)|
 </div>
 
 ## Bezosobowe formy
