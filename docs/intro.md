@@ -48,6 +48,16 @@ c, dz, cz, dż, ż, rz, sz
 |^| W innych przypadkach `zawsze alternacja` | bogaty - bogaci (`ty`: `ci`) <br/> młody - młodzi (`dy`: `dzi`) <br/> miły - mili (`ły`: `li`)|
 </div>
 
+## Stopniowanie
+
+### Stopniowanie przysłówka
+| | **Stopień równy** | **Stopień wyźszy**  | **Stopień najwyźszy** |
+| --- | --- | --- | --- |
+| **Stopniowanie proste** | daleko | dal`ej` | `naj`dal`ej` |
+| **Stopniowanie opisowe** | interesująco | `bardziej/mniej` interesująco | `najbardziej/najmniej` interesująco |
+| **Stopniowanie nieregularne** | dobrze <br/> źle <br/> mało <br/> dużo | lepiej <br/> gorźej <br/> mniej <br/> więcej | najlepiej <br/> najgorzej <br/> najmniej <br/> najwięcej |
+
+
 ## Bezosobowe formy
 
 Tworzenie bezosobowych form:
