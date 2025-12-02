@@ -61,6 +61,13 @@ const config: Config = {
         indexBlog: false,
       },
     ],
+    [
+      '@docusaurus/plugin-google-gtag',
+      {
+        trackingID: 'G-V69Z0Z5M6V',
+        anonymizeIP: true,
+      },
+    ]
   ],
 
   themeConfig: {
