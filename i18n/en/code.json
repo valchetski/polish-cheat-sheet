@@ -326,15 +326,6 @@
     "message": "Tags",
     "description": "The title of the tag list page"
   },
-  "about.tagline": {
-    "message": "Polish language most important rules"
-  },
-  "about.cta": {
-    "message": "Check it out"
-  },
-  "about.pageTitle": {
-    "message": "About"
-  },
   "cmfcmf/d-s-l.searchBar.placeholder": {
     "message": "Search...",
     "description": "Placeholder shown in the searchbar"
@@ -354,5 +345,20 @@
   "cmfcmf/d-s-l.searchBar.noResults": {
     "message": "No results found.",
     "description": "message shown if no results are found"
+  },
+  "about.tagline": {
+    "message": "Polish language most important rules"
+  },
+  "about.cta": {
+    "message": "Check it out"
+  },
+  "about.pageTitle": {
+    "message": "About"
+  },
+  "about.features.easy.title": {
+    "message": "Easy to Use"
+  },
+  "about.features.easy.description": {
+    "message": "Focus only on main rules of Polish language. Use this cheat sheet as a quick reference guide."
   }
 }

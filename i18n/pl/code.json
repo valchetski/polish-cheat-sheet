@@ -7,5 +7,11 @@
   },
   "about.pageTitle": {
     "message": "O stronie"
+  },
+  "about.features.easy.title": {
+    "message": "Łatwy w użyciu"
+  },
+  "about.features.easy.description": {
+    "message": "Skup się wyłącznie na głównych zasadach języka polskiego. Wykorzystaj ten cheat sheet jako skrócony przewodnik."
   }
 }
