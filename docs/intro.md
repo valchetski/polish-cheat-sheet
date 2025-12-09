@@ -4,6 +4,8 @@ toc_max_heading_level: 5
 slug: /
 ---
 
+import PrepositionsExplorer from '@site/src/components/PrepositionsExplorer';
+
 # Polish Cheat Sheet
 
 ## Spółgłoski
@@ -87,3 +89,8 @@ W trybie przypuszczającym używamy ich stawiając cząstkę `by`  osobno: `trze
 | - | powinieneś | należy / powinno się |
 | - | - | warto |
 | wiedzieć | wiesz | wiadomo |
+
+## Przyimki (i nie tylko) + przypadki
+
+<PrepositionsExplorer />
+
