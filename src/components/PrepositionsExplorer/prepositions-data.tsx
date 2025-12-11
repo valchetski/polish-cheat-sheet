@@ -69,7 +69,7 @@ export const prepositionsData = [
       },
       miejscownik: {
         description: 'Neutralne czasowniki. Bez mocnego ładunku emocjonalnego',
-        examples: ['Myśleć o obedzie', 'Czytać/pisać o kotach', 'Wiedzieć o problemie', 'Śnić o podróży', 'Rozmawiać o planach', 'Pamiętać o wizycie', 'Mówić o pogodzie' ]
+        examples: ['Myśleć o tobie', 'Czytać/pisać o kotach', 'Wiedzieć o problemie', 'Śnić o podróży', 'Rozmawiać o planach', 'Pamiętać o wizycie', 'Mówić o pogodzie' ]
       }
     }
   },
