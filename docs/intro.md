@@ -50,6 +50,20 @@ c, dz, cz, dż, ż, rz, sz
 |^| W innych przypadkach `zawsze alternacja` | bogaty - bogaci (`ty`: `ci`) <br/> młody - młodzi (`dy`: `dzi`) <br/> miły - mili (`ły`: `li`)|
 </div>
 
+## Zaimki
+
+### Zaimki rzeczowne
+
+| Przypadek | ja | ty | on | ona | ono | my | wy | oni/one |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Mianownik** | ja | ty | on | ona | ono | my | wy | oni/one |
+| **Dopełniacz** | mnie | ciebie/cię | jego/go/niego | jej/niej | jego/go/niego | nas | was | ich/nich |
+| **Celownik** | mnie/mi | tobie/ci | jemu/mu/niemu | jej/niej | jemu/mu/niemu | nam | wam | im/nim |
+| **Biernik** | mnie | ciebie/cię | jego/go/niego | ją/nią | je/nie | nas | was | ich/nie |
+| **Narzędnik** | mną | tobą | nim | nią | nim | nami | wami | nimi |
+| **Miejscownik** | mnie | tobie | nim | niej | nim | nas | was | nich |
+
+
 ## Stopniowanie
 
 ### Stopniowanie przysłówka
