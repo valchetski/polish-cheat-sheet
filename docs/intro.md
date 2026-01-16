@@ -50,6 +50,70 @@ c, dz, cz, dż, ż, rz, sz
 |^| W innych przypadkach `zawsze alternacja` | bogaty - bogaci (`ty`: `ci`) <br/> młody - młodzi (`dy`: `dzi`) <br/> miły - mili (`ły`: `li`)|
 </div>
 
+## Liczebniki zbiorowe
+
+### Przykłady
+
+<div class="table-w-10-55-35">
+
+| Liczba | Liczebnik zbiorowy |
+| --- | --- |
+| 2 | dwo**je** (oboje) |
+| 3 | tro**je** |
+| 4 | czw**oro** |
+| 5 | pięci**oro** |
+| 6 | szesc**ioro** |
+| 7 | siedmi**oro** |
+| 8 | ośmi**oro** |
+| 9 | dziewięci**oro** |
+| 10 | dziesięci**oro** |
+| 11 | jedenaści**oro** |
+| 12 | dwanaści**oro** |
+| 13 | trzynaści**oro** |
+| 14 | czternaści**oro** |
+| 15 | piętnaści**oro** |
+| 16 | szesnaści**oro** |
+| 17 | siedemnaści**oro** |
+| 18 | osiemnaści**oro** |
+| 19 | dziewiętnaści**oro** |
+| 20 | dwadzieści**oro** |
+| 21 | dwadzieści**oro** jeden |
+| 30 | trzydzieści**oro** |
+| 40 | czterdzieści**oro** |
+| 50 | pięćdzieści**oro** |
+| 60 | sześćdzieści**oro** |
+| 70 | siedemdzieści**oro** |
+| 80 | osiemdzieści**oro** |
+| 90 | dziewięćdzieści**oro** |
+
+</div>
+
+### Liczebniki zbiorowe łączą się z
+
+| Reguła | Przykłady | Wyjątki |
+| --- | --- | --- |
+| `Niedorosłe osoby` lub `małe zwierzęta` kończące się na `-ę` | niemowlę - troje niemowląt<br/> zrebie - czworo źrebiąt<br/> kurcze - dziesięcioro kurcząt | |
+| `dziecko` | dwoje dzieci<br/> sześcioro dzieci<br/> piętnaścioro dzieci | |
+| Rzeczowniki w `liczbie mnogiej tylko` | troje drzwi<br/> ośmioro skrzypiec | dwie pary spodni, majtek |
+| Rzeczownikami oznaczającymi `osoby obu płci` | czworo ludzi<br/> siedmioro studentów | |
+| `oczy`, `uszy`, `ręce` | dwoje oczu<br/> dwoje uszu<br/> dwoje rąk | dwie ręce |
+
+### Odmiana liczebników zbiorowych
+
+<div class="table-w-10-35-55">
+
+| Przypadek | Przykład 1 | Przykład 2 |
+| --- | --- | --- |
+| mianownik (kto? co?) | dwoj**e** dzieci | pięcior**o** szczeniąt |
+| dopełniacz (kogo? czego?) | dwoj**ga** dzieci | pięcior**ga** szczeniąt |
+| celownik (komu? czemu?) | dwoj**gu** dzieciom | pięcior**gu** szczeniętom |
+| biernik (kogo? co?) | dwoj**gu** dzieci | pięcior**o** szczeniąt |
+| narzędnik (z kim? z czym?) | dwoj**giem** dzieci | pięcior**giem** szczeniąt |
+| miejscownik (o kim? o czym?) | dwoj**giem** dzieciach | pięcior**gu** szczeniętach |
+| wołacz (o!) | dwoj**e** dzieci! | pięcior**o** szczeniąt! |
+
+</div>
+
 ## Zaimki
 
 ### Zaimki rzeczowne
