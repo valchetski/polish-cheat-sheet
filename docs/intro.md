@@ -31,11 +31,11 @@ c, dz, cz, dż, ż, rz, sz
 <div class="table-w-10-55-35">
 | **Końcówka** | **Występowanie** | **Przykłady** |
 | --- | --- | --- |
-| `-owie` | Rzeczowniki, które są nazwami stopni pokrewieństwa, tytułów i godności oraz niektórych narodowości | syn - syn**owie**<br/> poseł - pos**łowie** <br/> pan - pan**owie** <br/> Fin - Fin**owie** |
-| `-y` | Rzeczowniki: <br/> - zakończone na `-k`, `-g`, `-r` <br/> - zakończone na `-ka`, `-ga` <br/> - zakończone na `-ec`, `-ca` | Polak - Polac**y** (`k` : `c`) <br/> aktor - atorz**y** (`r`: `rz`) <br/> chirurg - chirurdz**y** (`g`: `dz`)<br/> <br/>Ukrainiec - Ukraińc**y** <br/> chłopiec - chłopc**y** <br/> kierowca - kierowc**y**  |
-| `i` | Rzeczowniki: <br/> - zakończone na [`spółgłoskę twardą`](#spółgłoski-twarde) oprócz: `-k`, `-g`, `-r`. `Tu zawsze występuje alternacja`.<br/>- zakończone na `-a` | student - student**ci** (`t` : `ci`) <br/> sąsiad - sąsiedz**i** (`d`: `dzi`) <br/> Francuz - Francuz**i** (`z`: `zi`) <br/> Włoch - Włos**i** (`ch`: `si`) <br/> <br/> poeta - poec**i** (`t`: `ci`) <br/> turysta - turyst**ci** (`st`: `ści`)|
-| `e` | Rzeczowniki:<br/> - zakończone na [`spółgłoskę miękką`](#spółgłoski-miękkie) lub [`stwardniałą`](#spółgłoski-stwardniałe) <br/> - zakończone na `-anin` | gość - goś**cie** <br/> przyjaciel - przyjaciel**e** <br/> kibic - kibic**e** <br/> Amerykanin - Amerykan**ie**|
-|  |  `Wyjątki!` | brat - brrac**ia** (nie braci) <br/> ksiądz - księ**ża** (nie ksiądze) <br/> Hiszpan - Hiszpan**ie** (nie Hiszpani) |
+| `-owie` | Rzeczowniki, które są nazwami stopni pokrewieństwa, tytułów i godności oraz niektórych narodowości | syn - syn**owie**,<br/> poseł - pos**łowie**,<br/> pan - pan**owie**,<br/> Fin - Fin**owie** |
+| `-y` | Rzeczowniki: <br/> - zakończone na `-k`, `-g`, `-r` <br/> - zakończone na `-ka`, `-ga` <br/> - zakończone na `-ec`, `-ca` | Polak - Polac**y** (`k` : `c`),<br/> aktor - atorz**y** (`r`: `rz`),<br/> chirurg - chirurdz**y** (`g`: `dz`),<br/> <br/>Ukrainiec - Ukraińc**y**,<br/> chłopiec - chłopc**y**,<br/> kierowca - kierowc**y** |
+| `i` | Rzeczowniki: <br/> - zakończone na [`spółgłoskę twardą`](#spółgłoski-twarde) oprócz: `-k`, `-g`, `-r`. `Tu zawsze występuje alternacja`.<br/>- zakończone na `-a` | student - student**ci** (`t` : `ci`),<br/> sąsiad - sąsiedz**i** (`d`: `dzi`),<br/> Francuz - Francuz**i** (`z`: `zi`),<br/> Włoch - Włos**i** (`ch`: `si`),<br/> <br/> poeta - poec**i** (`t`: `ci`),<br/> turysta - turyst**ci** (`st`: `ści`)|
+| `e` | Rzeczowniki:<br/> - zakończone na [`spółgłoskę miękką`](#spółgłoski-miękkie) lub [`stwardniałą`](#spółgłoski-stwardniałe) <br/> - zakończone na `-anin` | gość - goś**cie**,<br/> przyjaciel - przyjaciel**e**,<br/> kibic - kibic**e**,<br/> Amerykanin - Amerykan**ie**|
+|  |  `Wyjątki!` | brat - brrac**ia** (nie braci),<br/> ksiądz - księ**ża** (nie ksiądze),<br/> Hiszpan - Hiszpan**ie** (nie Hiszpani) |
 </div>
 
 #### Przymiotnik rodzaj męskoosobowy
@@ -43,11 +43,11 @@ c, dz, cz, dż, ż, rz, sz
 <div class="table-w-10-55-35">
 | **Końcówka** | **Występowanie** | **Przykłady** |
 | --- | --- | --- |
-| `-y`| Po `-k`, `-g`, `-r`, `-c` | dobr**y** - dobr**zy** (`ry`: `rzy`) <br/> wysok**i** - wysocy (`ki`: `cy`) <br/> dług**i** - dłudz**y** (`gi`: `dzy`) |
-|^| Koncówki `-cy`, `-czy`, `-dzy` zostają| obcy człowiek - obc**y** ludzie <br/> uroczy chłopiec - uroczc**y** chłopcy <br/> cudzy kolega - cudz**y** koledzy |
+| `-y`| Po `-k`, `-g`, `-r`, `-c` | dobr**y** - dobr**zy** (`ry`: `rzy`),<br/> wysok**i** - wysocy (`ki`: `cy`),<br/> dług**i** - dłudz**y** (`gi`: `dzy`) |
+|^| Koncówki `-cy`, `-czy`, `-dzy` zostają| obcy człowiek - obc**y** ludzie,<br/> uroczy chłopiec - uroczc**y** chłopcy,<br/> cudzy kolega - cudz**y** koledzy |
 |`-i`| Końcówka `-i` zostaje| ostatn**i** biegacz - ostatn**i** biegacze |
-|^| Przymiotniki zakończone na `-ony` | zadowolen**y** - zadowolen**i** <br/> zmęczon**y** - zmęczen**i** |
-|^| W innych przypadkach `zawsze alternacja` | bogat**y** - bogac**i** (`ty`: `ci`) <br/> młod**y** - młodz**i** (`dy`: `dzi`) <br/> miły - mil**i** (`ły`: `li`)|
+|^| Przymiotniki zakończone na `-ony` | zadowolen**y** - zadowolen**i**,<br/> zmęczon**y** - zmęczen**i** |
+|^| W innych przypadkach `zawsze alternacja` | bogat**y** - bogac**i** (`ty`: `ci`),<br/> młod**y** - młodz**i** (`dy`: `dzi`),<br/> miły - mil**i** (`ły`: `li`)|
 </div>
 
 ## Liczebniki zbiorowe
@@ -92,11 +92,11 @@ c, dz, cz, dż, ż, rz, sz
 
 | Reguła | Przykłady | Wyjątki |
 | --- | --- | --- |
-| `Niedorosłe osoby` lub `małe zwierzęta` kończące się na `-ę` | niemowlę - troje niemowląt<br/> zrebie - czworo źrebiąt<br/> kurcze - dziesięcioro kurcząt | |
-| `dziecko` | dwoje dzieci<br/> sześcioro dzieci<br/> piętnaścioro dzieci | |
-| Rzeczowniki w `liczbie mnogiej tylko` | troje drzwi<br/> ośmioro skrzypiec | dwie pary spodni, majtek |
-| Rzeczownikami oznaczającymi `osoby obu płci` | czworo ludzi<br/> siedmioro studentów | |
-| `oczy`, `uszy`, `ręce` | dwoje oczu<br/> dwoje uszu<br/> dwoje rąk | dwie ręce |
+| `Niedorosłe osoby` lub `małe zwierzęta` kończące się na `-ę` | niemowlę - troje niemowląt,<br/> zrebie - czworo źrebiąt,<br/> kurcze - dziesięcioro kurcząt | |
+| `dziecko` | dwoje dzieci,<br/> sześcioro dzieci,<br/> piętnaścioro dzieci | |
+| Rzeczowniki w `liczbie mnogiej tylko` | troje drzwi,<br/> ośmioro skrzypiec | dwie pary spodni, majtek |
+| Rzeczownikami oznaczającymi `osoby obu płci` | czworo ludzi,<br/> siedmioro studentów | |
+| `oczy`, `uszy`, `ręce` | dwoje oczu,<br/> dwoje uszu,<br/> dwoje rąk | dwie ręce |
 
 ### Odmiana liczebników zbiorowych
 
@@ -135,7 +135,7 @@ c, dz, cz, dż, ż, rz, sz
 | --- | --- | --- | --- |
 | **Stopniowanie proste** | daleko | dal`ej` | `naj`dal`ej` |
 | **Stopniowanie opisowe** | interesująco | `bardziej/mniej` interesująco | `najbardziej/najmniej` interesująco |
-| **Stopniowanie nieregularne** | dobrze <br/> źle <br/> mało <br/> dużo | lepiej <br/> gorźej <br/> mniej <br/> więcej | najlepiej <br/> najgorzej <br/> najmniej <br/> najwięcej |
+| **Stopniowanie nieregularne** | dobrze,<br/> źle,<br/> mało,<br/> dużo | lepiej,<br/> gorźej,<br/> mniej,<br/> więcej | najlepiej,<br/> najgorzej,<br/> najmniej,<br/> najwięcej |
 
 
 ## Bezosobowe formy
