@@ -175,6 +175,13 @@ W trybie przypuszczającym używamy ich stawiając cząstkę `by`  osobno: `trze
 | `tylko` | Ilość – coś się nie zmieni lub nie da się zmienić.<br/><br/>Termin składania podań już upłynął, a dostaliśmy `tylko` trzy zgłoszenia. → Bez zmian (koniec)   | Do szkoły przyszła tylko połowa uczniów.<br/> Coś takiego mogło się wydarzyć tylko w Anglii.<br/> W sali mogą się znajdować tylko uczniowie i nauczyciel. |
 | `dopiero` | Kontekst czasowy – coś się zmieni lub będzie więcej.<br/><br/>Do końca terminu został tydzień, a `dopiero` trzech studentów przyniosło podania. → Będzie więcej | Jest dopiero ósma rano, a już są trzy osoby w kolejce.<br/> Mam gotową dopiero połowę projektu.<br/> Dopiero co wróciłam z urlopu. |
 
+## Być vs Zostać
+
+| Słowo | Użycie | Przykłady |
+| --- | --- | --- |
+| `być` | Stan, właściwość, jakość – opisanie czegoś takiego jakie jest.<br/><br/>Chcę **być** lekarzem. → Mam już zawód lub mówię o sobie jako o lekarzu. | Chciałbym być stolarzem.<br/> Ja jestem bardzo ambitny.<br/> Byłem wczoraj w klubie. |
+| `zostać` | Zmiana stanu (stać się) lub pozostanie w miejscu/stanie.<br/><br/>Chcę **zostać** lekarzem. → Dopiero się staje lub planuje się stać. | Chciałbym zostać stolarzem.<br/> Muszę tu zostać, ponieważ czekam na siostrę.<br/> |
+
 ## Przyimki (i nie tylko) + przypadki
 
 <PrepositionsExplorer />

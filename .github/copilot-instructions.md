@@ -1,5 +1,5 @@
 ## Project Overview
-Docusaurus site for Polish language learning. It's a cheat sheet covering the most important rules. The idea is that consumer already know Polish and uses this site to refresh their memory. All the text must be concise and presented in a way that is easy to scan.
+Docusaurus site for Polish language learning. It's a cheat sheet covering the most important rules. The idea is that consumer already know Polish and uses this site to refresh their memory. All the text must be concise and presented in a way that is easy to scan. Expect that people will read this by diagonally.
 
 ## Key Patterns
 **No comments** in source files (project convention).
@@ -11,6 +11,7 @@ Docusaurus site for Polish language learning. It's a cheat sheet covering the mo
 - In table cells: each example on new line (`<br/>`) and separated by:
   - Comma (`,`) if examples are short phrases or word forms.
   - Period (`.`) if examples are full sentences.
+- When presenting related concepts or word pairs (e.g., `tylko` vs `dopiero`, `być` vs `zostać`), include a distinguishing example or context in the "Użycie"/explanation cell (separated by `<br/><br/>`) to help readers quickly grasp key differences.
 
 ## Commands
 - `npm start` - Dev server
