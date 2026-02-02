@@ -168,6 +168,13 @@ W trybie przypuszczającym używamy ich stawiając cząstkę `by`  osobno: `trze
 | - | - | warto |
 | wiedzieć | wiesz | wiadomo |
 
+## Tylko vs Dopiero
+
+| Słowo | Użycie | Przykłady |
+| --- | --- | --- |
+| `tylko` | Ilość – coś się nie zmieni lub nie da się zmienić.<br/><br/>Termin składania podań już upłynął, a dostaliśmy `tylko` trzy zgłoszenia. → Bez zmian (koniec)   | Do szkoły przyszła tylko połowa uczniów.<br/> Coś takiego mogło się wydarzyć tylko w Anglii.<br/> W sali mogą się znajdować tylko uczniowie i nauczyciel. |
+| `dopiero` | Kontekst czasowy – coś się zmieni lub będzie więcej.<br/><br/>Do końca terminu został tydzień, a `dopiero` trzech studentów przyniosło podania. → Będzie więcej | Jest dopiero ósma rano, a już są trzy osoby w kolejce.<br/> Mam gotową dopiero połowę projektu.<br/> Dopiero co wróciłam z urlopu. |
+
 ## Przyimki (i nie tylko) + przypadki
 
 <PrepositionsExplorer />
