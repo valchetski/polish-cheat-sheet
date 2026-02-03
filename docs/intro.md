@@ -92,7 +92,7 @@ c, dz, cz, dż, ż, rz, sz
 
 | Reguła | Przykłady | Wyjątki |
 | --- | --- | --- |
-| `Niedorosłe osoby` lub `małe zwierzęta` kończące się na `-ę` | niemowlę - troje niemowląt,<br/> zrebie - czworo źrebiąt,<br/> kurcze - dziesięcioro kurcząt | |
+| `Niedorosłe osoby` lub `małe zwierzęta` kończące się na `-ę` | niemowlę - troje niemowląt,<br/> źrebię - czworo źrebiąt,<br/> kurczę - dziesięcioro kurcząt | |
 | `dziecko` | dwoje dzieci,<br/> sześcioro dzieci,<br/> piętnaścioro dzieci | |
 | Rzeczowniki w `liczbie mnogiej tylko` | troje drzwi,<br/> ośmioro skrzypiec | dwie pary spodni, majtek |
 | Rzeczownikami oznaczającymi `osoby obu płci` | czworo ludzi,<br/> siedmioro studentów | |
