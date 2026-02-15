@@ -20,7 +20,12 @@ b, ch, d, f, g, h, k, ł, m, n, p, r, s, t, w, z
 
 ### Spółgłoski stwardniałe
 
+```md
+Brzmią twardo, ale gramatycznie zachowują się jak miękkie
+```
+
 c, dz, cz, dż, ż, rz, sz
+
 
 ## Liczba mnoga
 
