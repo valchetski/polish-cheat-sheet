@@ -12,7 +12,7 @@ import PrepositionsExplorer from '@site/src/components/PrepositionsExplorer';
 
 ### Spółgłoski twarde
 
-b, ch, d, f, g, h, k, ł, m, n, p, r, s, t, w, z
+k, g, r, ch, b, d, f, h, ł, m, n, p, s, t, w, z
 
 ### Spółgłoski miękkie
 
@@ -24,8 +24,7 @@ b, ch, d, f, g, h, k, ł, m, n, p, r, s, t, w, z
 Brzmią twardo, ale gramatycznie zachowują się jak miękkie
 ```
 
-c, dz, cz, dż, ż, rz, sz
-
+c, cz, ż, dż, dz, rz, sz
 
 ## Liczba mnoga
 
