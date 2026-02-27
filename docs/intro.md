@@ -190,3 +190,12 @@ W trybie przypuszczającym używamy ich stawiając cząstkę `by`  osobno: `trze
 
 <PrepositionsExplorer />
 
+## Trudne słowa
+
+| Mianownik | Dopełniacz | Celownik | Biernik | Narzędnik | Miejscownik | Wołacz |
+| --- | --- | --- | --- | --- | --- | --- |
+| `miasto`<br/>miasta | miasta<br/>miast | miastu<br/>miastom | miasto<br/>miasta | miastem<br/>miastami | `mieście`<br/>miastach | miasto<br/>miasta |
+| `miejsce`<br/>miejsca | miejsca<br/>miejsc | miejscu<br/>miejscom | miejsce<br/>miejsca | miejscem<br/>miejscami | `miejscu`<br/>miejscach | miejsce<br/>miejsca |
+| `pieniądz`<br/>pieniądze | pieniądza<br/>`pieniędzy` | pieniądzowi<br/>pieniądzom | pieniądz<br/>pieniądze | pieniądzem<br/>pieniędzmi | pieniądzu<br/>pieniądzach | pieniądzu<br/>pieniądze |
+| `tysiąc`<br/>tysiące | tysiąca<br/>`tysięcy` | tysiącowi<br/>tysiącom | tysiąc<br/>tysiące | tysiącem<br/>tysiącami | tysiącu<br/>tysiącach | tysiąc<br/>tysiące |
+
