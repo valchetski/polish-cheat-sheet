@@ -10,10 +10,6 @@ import PrepositionsExplorer from '@site/src/components/PrepositionsExplorer';
 
 ## Spółgłoski
 
-### Spółgłoski twarde
-
-k, g, r, ch, b, d, f, h, ł, m, n, p, s, t, w, z
-
 ### Spółgłoski miękkie
 
 ś, ć, ź, ń, dź, l, j
@@ -25,6 +21,10 @@ Brzmią twardo, ale gramatycznie zachowują się jak miękkie
 ```
 
 c, cz, ż, dż, dz, rz, sz
+
+### Spółgłoski twarde
+
+k, g, r, ch, b, d, f, h, ł, m, n, p, s, t, w, z
 
 ## Liczba mnoga
 
@@ -139,7 +139,7 @@ c, cz, ż, dż, dz, rz, sz
 | --- | --- | --- | --- |
 | **Stopniowanie proste** | daleko | dal`ej` | `naj`dal`ej` |
 | **Stopniowanie opisowe** | interesująco | `bardziej/mniej` interesująco | `najbardziej/najmniej` interesująco |
-| **Stopniowanie nieregularne** | dobrze,<br/> źle,<br/> mało,<br/> dużo | lepiej,<br/> gorźej,<br/> mniej,<br/> więcej | najlepiej,<br/> najgorzej,<br/> najmniej,<br/> najwięcej |
+| **Stopniowanie nieregularne** | dobrze<br/> źle<br/> mało<br/> dużo | lepiej<br/> gorźej<br/> mniej<br/> więcej | najlepiej<br/> najgorzej<br/> najmniej<br/> najwięcej |
 
 
 ## Bezosobowe formy
@@ -176,8 +176,8 @@ W trybie przypuszczającym używamy ich stawiając cząstkę `by`  osobno: `trze
 
 | Słowo | Użycie | Przykłady |
 | --- | --- | --- |
-| `tylko` | Ilość – coś się nie zmieni lub nie da się zmienić.<br/><br/>Termin składania podań już upłynął, a dostaliśmy `tylko` trzy zgłoszenia. → Bez zmian (koniec)   | Do szkoły przyszła tylko połowa uczniów.<br/> Coś takiego mogło się wydarzyć tylko w Anglii.<br/> W sali mogą się znajdować tylko uczniowie i nauczyciel. |
-| `dopiero` | Kontekst czasowy – coś się zmieni lub będzie więcej.<br/><br/>Do końca terminu został tydzień, a `dopiero` trzech studentów przyniosło podania. → Będzie więcej | Jest dopiero ósma rano, a już są trzy osoby w kolejce.<br/> Mam gotową dopiero połowę projektu.<br/> Dopiero co wróciłam z urlopu. |
+| `tylko` | `Ilość` – coś się nie zmieni lub nie da się zmienić.<br/><br/>Termin składania podań już upłynął, a dostaliśmy `tylko` trzy zgłoszenia. → Bez zmian (koniec)   | Do szkoły przyszła tylko połowa uczniów.<br/> Coś takiego mogło się wydarzyć tylko w Anglii.<br/> W sali mogą się znajdować tylko uczniowie i nauczyciel. |
+| `dopiero` | `Kontekst czasowy` – coś się zmieni lub będzie więcej.<br/><br/>Do końca terminu został tydzień, a `dopiero` trzech studentów przyniosło podania. → Będzie więcej | Jest dopiero ósma rano, a już są trzy osoby w kolejce.<br/> Mam gotową dopiero połowę projektu.<br/> Dopiero co wróciłam z urlopu. |
 
 ## Być vs Zostać
 
