@@ -198,5 +198,5 @@ W trybie przypuszczającym używamy ich stawiając cząstkę `by`  osobno: `trze
 | `miejsce`<br/>miejsca | miejsca<br/>miejsc | miejscu<br/>miejscom | miejsce<br/>miejsca | miejscem<br/>miejscami | `miejscu`<br/>miejscach | miejsce<br/>miejsca |
 | `pieniądz`<br/>pieniądze | pieniądza<br/>`pieniędzy` | pieniądzowi<br/>pieniądzom | pieniądz<br/>pieniądze | pieniądzem<br/>pieniędzmi | pieniądzu<br/>pieniądzach | pieniądzu<br/>pieniądze |
 | `tysiąc`<br/>tysiące | tysiąca<br/>`tysięcy` | tysiącowi<br/>tysiącom | tysiąc<br/>tysiące | tysiącem<br/>tysiącami | tysiącu<br/>tysiącach | tysiąc<br/>tysiące |
-| `pani`<br/>panie | pani<br/pań | pani<br/>paniom | `panią`<br/>panie | `panią`<br/>paniami | pani<br/>paniach | pani<br/>panie |
+| `pani`<br/>panie | pani<br/>pań | pani<br/>paniom | `panią`<br/>panie | `panią`<br/>paniami | pani<br/>paniach | pani<br/>panie |
 
