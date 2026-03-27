@@ -26,6 +26,32 @@ c, cz, ż, dż, dz, rz, sz
 
 k, g, r, ch, b, d, f, h, ł, m, n, p, s, t, w, z
 
+## Rodzaj
+
+### Liczba pojedyncza
+
+#### Rodzaj męski
+
+ Elementy świata płci męskiej. Ludzi: `policjant`, `aktor`, zwierzęta: `pies`, `wróbel` i rzeczy: `wazon`, `stół`.
+
+#### Rodzaj żeński
+
+Typowo przydzielany **istotom płci żeńskiej**: `nauczycielka`, `lwica`, `mama`. Ale również rzeczom oraz pojęciom abstrakcyjnym: `klawiatura`, `łódź`, `nauka`.
+
+#### Rodzaj nijaki
+
+Przydzielany głównie **młodym istotom**: `niemowlę`, `szczenię`, `kurczę`. Obejmuje również obiekty bez określonej płci (`okno`, `pole`, `muzeum`) i **czynności/procesy** (`granie`, `wysłuchanie`, `myślenie`).
+
+### Liczba mnoga
+
+#### Rodzaj męskoosobowy
+
+Gdy w grupie znajduje się **mężczyzna**: `studenci`, `policjanci`, `nauczyciele`.
+
+#### Rodzaj niemęskoosobowy
+
+Wszystkie inne przypadki: **kobiety** `studentki`, `nauczycielki`. **Zwierzęta** `koty`, `psy`. **Przedmioty** `telefony`, `mapy`.
+
 ## Liczba mnoga
 
 ### Mianownik
