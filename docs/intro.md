@@ -68,6 +68,18 @@ Wszystkie inne przypadki: **kobiety** `studentki`, `nauczycielki`. **Zwierzęta*
 |  |  `Wyjątki!` | brat - brrac**ia** (nie braci),<br/> ksiądz - księ**ża** (nie ksiądze),<br/> Hiszpan - Hiszpan**ie** (nie Hiszpani) |
 </div>
 
+#### Rzeczownik rodzaj niemęskoosobowy
+
+<div class="table-w-10-55-35">
+| **Końcówka** | **Występowanie** | **Przykłady** |
+| --- | --- | --- |
+| `-y` | Większość rzeczowników rodzaju męskiego i żeńskiego | dom - dom**y**,<br/> szkoła - szkoł**y**,<br/> aparat - aparaty,<br/> biuro - biur**a** |
+| `-i` | Rzeczowniki: <br/> - zakończone na `-k`, `-g` <br/> - zakończone na `-ś`, `-ć` | płatek - płatki,<br/> droga - drog**i**,<br/> gęś - gęś**i**,<br/> postać - postac**i** |
+| `-e` | Rzeczowniki zakończone na [`spółgłoskę stwardniałą`](#spółgłoski-stwardniałe) lub [`miękką`](#spółgłoski-miękkie) | grusza - grusz**e**,<br/> twierdza - twierdz**e**,<br/> lekcja - lekcj**e**,<br/> noć - noc**e**,<br/> kolacja - kolacj**e** |
+| `-a` | Rzeczowniki rodzaju nijakiego | jabłko - jabłk**a**,<br/> śniadanie - śniadani**a**,<br/> jajko - jajk**a** |
+|  | `Wyjątki!` | dziecko - dziec**i**,<br/> oko - ocz**y**,<br/> ucho - uszy |
+</div>
+
 #### Przymiotnik rodzaj męskoosobowy
 
 <div class="table-w-10-55-35">
@@ -78,6 +90,14 @@ Wszystkie inne przypadki: **kobiety** `studentki`, `nauczycielki`. **Zwierzęta*
 |`-i`| Końcówka `-i` zostaje| ostatn**i** biegacz - ostatn**i** biegacze |
 |^| Przymiotniki zakończone na `-ony` | zadowolen**y** - zadowolen**i**,<br/> zmęczon**y** - zmęczen**i** |
 |^| W innych przypadkach `zawsze alternacja` | bogat**y** - bogac**i** (`ty`: `ci`),<br/> młod**y** - młodz**i** (`dy`: `dzi`),<br/> miły - mil**i** (`ły`: `li`)|
+</div>
+
+#### Przymiotnik rodzaj niemęskoosobowy
+
+<div class="table-w-10-55-35">
+| **Końcówka** | **Występowanie** | **Przykłady** |
+| --- | --- | --- |
+| `-e` | `Zawsze dla wszystkich przymiotników niemęskoosobowych` | wysok**i** - wysoki**e**,<br/> miły - miłe,<br/> bogat**y** - bogate,<br/> ostatn**i** - ostatn**ie**,<br/> zadowolen**y** - zadowolen**e** |
 </div>
 
 ## Liczebniki zbiorowe
