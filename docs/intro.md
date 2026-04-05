@@ -71,7 +71,7 @@ Wszystkie inne przypadki: **kobiety** `studentki`, `nauczycielki`. **Zwierzęta*
 <div class="table-w-10-55-35">
 | **Końcówka** | **Występowanie** | **Przykłady** |
 | --- | --- | --- |
-| `-y` | Większość rzeczowników rodzaju męskiego i żeńskiego | dom - dom**y**,<br/> szkoła - szkoł**y**,<br/> aparat - aparaty,<br/> biuro - biur**a** |
+| `-y` | Większość rzeczowników rodzaju męskiego i żeńskiego | dom - dom**y**,<br/> szkoła - szkoł**y**,<br/> aparat - aparaty |
 | `-i` | Rzeczowniki: <br/> - zakończone na `-k`, `-g` <br/> - zakończone na `-ś`, `-ć` | płatek - płatki,<br/> droga - drog**i**,<br/> gęś - gęś**i**,<br/> postać - postac**i** |
 | `-e` | Rzeczowniki zakończone na [`spółgłoskę stwardniałą`](#spółgłoski-stwardniałe) lub [`miękką`](#spółgłoski-miękkie) | grusza - grusz**e**,<br/> twierdza - twierdz**e**,<br/> lekcja - lekcj**e**,<br/> noć - noc**e**,<br/> kolacja - kolacj**e** |
 | `-a` | Rzeczowniki rodzaju nijakiego | jabłko - jabłk**a**,<br/> śniadanie - śniadani**a**,<br/> jajko - jajk**a** |
