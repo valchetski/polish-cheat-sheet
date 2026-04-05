@@ -12,6 +12,7 @@ Docusaurus site for Polish language learning. It's a cheat sheet covering the mo
   - Comma (`,`) if examples are short phrases or word forms.
   - Period (`.`) if examples are full sentences.
 - When presenting related concepts or word pairs (e.g., `tylko` vs `dopiero`, `być` vs `zostać`), include a distinguishing example or context in the "Użycie"/explanation cell (separated by `<br/><br/>`) to help readers quickly grasp key differences.
+- **Exceptions (Wyjątki) must always be at the end of the table.**
 
 ## Commands
 - `npm start` - Dev server

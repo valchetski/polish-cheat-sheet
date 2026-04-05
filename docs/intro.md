@@ -52,11 +52,9 @@ Gdy w grupie znajduje się **mężczyzna**: `studenci`, `policjanci`, `nauczycie
 
 Wszystkie inne przypadki: **kobiety** `studentki`, `nauczycielki`. **Zwierzęta** `koty`, `psy`. **Przedmioty** `telefony`, `mapy`.
 
-## Liczba mnoga
+## Mianownik
 
-### Mianownik
-
-#### Rzeczownik rodzaj męskoosobowy
+### Rzeczownik liczba mnoga rodzaj męskoosobowy
 
 <div class="table-w-10-55-35">
 | **Końcówka** | **Występowanie** | **Przykłady** |
@@ -68,7 +66,7 @@ Wszystkie inne przypadki: **kobiety** `studentki`, `nauczycielki`. **Zwierzęta*
 |  |  `Wyjątki!` | brat - brrac**ia** (nie braci),<br/> ksiądz - księ**ża** (nie ksiądze),<br/> Hiszpan - Hiszpan**ie** (nie Hiszpani) |
 </div>
 
-#### Rzeczownik rodzaj niemęskoosobowy
+### Rzeczownik liczba mnoga rodzaj niemęskoosobowy
 
 <div class="table-w-10-55-35">
 | **Końcówka** | **Występowanie** | **Przykłady** |
@@ -80,7 +78,7 @@ Wszystkie inne przypadki: **kobiety** `studentki`, `nauczycielki`. **Zwierzęta*
 |  | `Wyjątki!` | dziecko - dziec**i**,<br/> oko - ocz**y**,<br/> ucho - uszy |
 </div>
 
-#### Przymiotnik rodzaj męskoosobowy
+### Przymiotnik liczba mnoga rodzaj męskoosobowy
 
 <div class="table-w-10-55-35">
 | **Końcówka** | **Występowanie** | **Przykłady** |
@@ -92,12 +90,27 @@ Wszystkie inne przypadki: **kobiety** `studentki`, `nauczycielki`. **Zwierzęta*
 |^| W innych przypadkach `zawsze alternacja` | bogat**y** - bogac**i** (`ty`: `ci`),<br/> młod**y** - młodz**i** (`dy`: `dzi`),<br/> miły - mil**i** (`ły`: `li`)|
 </div>
 
-#### Przymiotnik rodzaj niemęskoosobowy
+### Przymiotnik liczba mnoga rodzaj niemęskoosobowy
 
 <div class="table-w-10-55-35">
 | **Końcówka** | **Występowanie** | **Przykłady** |
 | --- | --- | --- |
 | `-e` | `Zawsze dla wszystkich przymiotników niemęskoosobowych` | wysok**i** - wysoki**e**,<br/> miły - miłe,<br/> bogat**y** - bogate,<br/> ostatn**i** - ostatn**ie**,<br/> zadowolen**y** - zadowolen**e** |
+</div>
+
+## Dopełniacz
+
+### Rzeczownik męski liczba pojedyncza
+
+<div class="table-w-10-55-35">
+| **Końcówka** | **Występowanie** | **Przykłady** |
+| --- | --- | --- |
+| `-a` | Wszystkie `żywotne`<br/><br/>Nazwy miast, narzędzi, naczyń, miar i wag, liczb, `miesięcy`, części ciała, tańców i gier, owoców i grzybów, marek fabrycznych | pana, dziadka, kota, słonia,<br/><br/> Berlina, młota, telewizora, słoika, kilograma, tysiąca, marca, nosa, tenisa, banana, fiata |
+| `-u` | `Nieżywotne` pochodzenia `obcego`<br/><br/>`Dni tygodnia`<br/><br/>Środki transportu<br/><br/>Abstrakcyjne<br/><br/>Zbiorowe i materialne<br/><br/>Skrótowce | teatru, komiksu, weekendu<br/><br/>poniedziałku, piątku<br/><br/>samochodu, roweru<br/><br/>bólu, śmiechu, gniewu<br/><br/> rządu, lasu, cukru<br/><br/> LOT-u, PAN-u |
+| `-i` | Rzeczowniki na `-a` w `mianowniku` | kolegi, stażysty, poety |
+| `-y` | Rzeczowniki na `-a` w `mianowniku` | stażysty, poety |
+| | Wyjątki | wołu, bawołu (rzeczowniki żywotne) |
+
 </div>
 
 ## Liczebniki zbiorowe
