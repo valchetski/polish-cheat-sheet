@@ -59,10 +59,10 @@ Wszystkie inne przypadki: **kobiety** `studentki`, `nauczycielki`. **Zwierzęta*
 <div class="table-w-10-55-35">
 | **Końcówka** | **Występowanie** | **Przykłady** |
 | --- | --- | --- |
-| `-owie` | Rzeczowniki, które są nazwami stopni pokrewieństwa, tytułów i godności oraz niektórych narodowości | syn - syn**owie**,<br/> poseł - pos**łowie**,<br/> pan - pan**owie**,<br/> Fin - Fin**owie** |
 | `-y` | Rzeczowniki: <br/> - zakończone na `-k`, `-g`, `-r` <br/> - zakończone na `-ka`, `-ga` <br/> - zakończone na `-ec`, `-ca` | Polak - Polac**y** (`k` : `c`),<br/> aktor - atorz**y** (`r`: `rz`),<br/> chirurg - chirurdz**y** (`g`: `dz`),<br/> <br/>Ukrainiec - Ukraińc**y**,<br/> chłopiec - chłopc**y**,<br/> kierowca - kierowc**y** |
 | `i` | Rzeczowniki: <br/> - zakończone na [`spółgłoskę twardą`](#spółgłoski-twarde) oprócz: `-k`, `-g`, `-r`. `Tu zawsze występuje alternacja`.<br/>- zakończone na `-a` | student - student**ci** (`t` : `ci`),<br/> sąsiad - sąsiedz**i** (`d`: `dzi`),<br/> Francuz - Francuz**i** (`z`: `zi`),<br/> Włoch - Włos**i** (`ch`: `si`),<br/> <br/> poeta - poec**i** (`t`: `ci`),<br/> turysta - turyst**ci** (`st`: `ści`)|
 | `e` | Rzeczowniki:<br/> - zakończone na [`spółgłoskę miękką`](#spółgłoski-miękkie) lub [`stwardniałą`](#spółgłoski-stwardniałe) <br/> - zakończone na `-anin` | gość - goś**cie**,<br/> przyjaciel - przyjaciel**e**,<br/> kibic - kibic**e**,<br/> Amerykanin - Amerykan**ie**|
+| `-owie` | Rzeczowniki, które są nazwami stopni pokrewieństwa, tytułów i godności oraz niektórych narodowości | syn - syn**owie**,<br/> poseł - pos**łowie**,<br/> pan - pan**owie**,<br/> Fin - Fin**owie** |
 |  |  `Wyjątki!` | brat - brrac**ia** (nie braci),<br/> ksiądz - księ**ża** (nie ksiądze),<br/> Hiszpan - Hiszpan**ie** (nie Hiszpani) |
 </div>
 
