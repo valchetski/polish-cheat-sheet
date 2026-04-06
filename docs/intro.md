@@ -117,10 +117,16 @@ Wszystkie inne przypadki: **kobiety** `studentki`, `nauczycielki`. **Zwierzęta*
 <div class="table-w-10-55-35">
 | **Końcówka** | **Występowanie** | **Przykłady** |
 | --- | --- | --- |
-| `-a` | Wszystkie `żywotne`<br/><br/>Nazwy miast, narzędzi, naczyń, miar i wag, liczb, `miesięcy`, części ciała, tańców i gier, owoców i grzybów, marek fabrycznych | pana, dziadka, kota, słonia,<br/><br/> Berlina, młota, telewizora, słoika, kilograma, tysiąca, marca, nosa, tenisa, banana, fiata |
-| `-u` | `Nieżywotne` pochodzenia `obcego`<br/><br/>`Dni tygodnia`<br/><br/>Środki transportu<br/><br/>Abstrakcyjne<br/><br/>Zbiorowe i materialne<br/><br/>Skrótowce | teatru, komiksu, weekendu<br/><br/>poniedziałku, piątku<br/><br/>samochodu, roweru<br/><br/>bólu, śmiechu, gniewu<br/><br/> rządu, lasu, cukru<br/><br/> LOT-u, PAN-u |
+| `-a` | Wszystkie `żywotne` | pana, dziadka, kota, słonia |
+| ^ | Nazwy miast, narzędzi, naczyń, miar i wag, liczb, `miesięcy`, części ciała, tańców i gier, owoców i grzybów, marek fabrycznych | Berlina, młota, telewizora, słoika, kilograma, tysiąca, marca, nosa, tenisa, banana, fiata |
+| `-u` | `Nieżywotne` pochodzenia `obcego` | teatru, komiksu, weekendu |
+| ^ | `Dni tygodnia` | poniedziałku, piątku |
+| ^ | Środki transportu | samochodu, roweru |
+| ^ | Abstrakcyjne | bólu, śmiechu, gniewu |
+| ^ | Zbiorowe i materialne | rządu, lasu, cukru |
+| ^ |Skrótowce | LOT-u, PAN-u |
 | `-i` | Rzeczowniki na `-a` w `mianowniku` | kolegi, stażysty, poety |
-| `-y` | Rzeczowniki na `-a` w `mianowniku` | stażysty, poety |
+| `-y` | ^ | stażysty, poety |
 | | Wyjątki | wołu, bawołu (rzeczowniki żywotne) |
 
 </div>
