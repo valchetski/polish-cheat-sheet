@@ -200,6 +200,9 @@ Wszystkie inne przypadki: **kobiety** `studentki`, `nauczycielki`. **Zwierzęta*
 | **Stopniowanie opisowe** | interesująco | `bardziej/mniej` interesująco | `najbardziej/najmniej` interesująco |
 | **Stopniowanie nieregularne** | dobrze<br/> źle<br/> mało<br/> dużo | lepiej<br/> gorźej<br/> mniej<br/> więcej | najlepiej<br/> najgorzej<br/> najmniej<br/> najwięcej |
 
+## Przyimki (i nie tylko) + przypadki
+
+<PrepositionsExplorer />
 
 ## Bezosobowe formy
 
@@ -244,10 +247,6 @@ W trybie przypuszczającym używamy ich stawiając cząstkę `by`  osobno: `trze
 | --- | --- | --- |
 | `być` | Stan, właściwość, jakość – opisanie czegoś takiego jakie jest.<br/><br/>Chcę **być** lekarzem. → Mam już zawód lub mówię o sobie jako o lekarzu. | Chciałbym być stolarzem.<br/> Ja jestem bardzo ambitny.<br/> Byłem wczoraj w klubie. |
 | `zostać` | Zmiana stanu (stać się) lub pozostanie w miejscu/stanie.<br/><br/>Chcę **zostać** lekarzem. → Dopiero się staje lub planuje się stać. | Chciałbym zostać stolarzem.<br/> Muszę tu zostać, ponieważ czekam na siostrę.<br/> |
-
-## Przyimki (i nie tylko) + przypadki
-
-<PrepositionsExplorer />
 
 ## Trudne słowa
 

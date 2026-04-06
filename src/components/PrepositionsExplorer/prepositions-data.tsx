@@ -30,6 +30,16 @@ export const prepositionsData = [
   {
     name: 'z(e)',
     cases: ['dopełniacz', 'narzędnik'],
+    usage: {
+      dopełniacz: {
+        description: 'Kierunek, pochodzenie',
+        examples: ['Wracam z pracy', 'Jestem z Polski' ]
+      },
+      narzędnik: {
+        description: 'Towarzystwo, narzędzie',
+        examples: ['Rozmawiam z bratem', 'Piję kawę z cukrem' ]
+      }
+    }
   },
   {
     name: 'bez',
@@ -46,6 +56,12 @@ export const prepositionsData = [
   {
     name: 'od',
     cases: ['dopełniacz'],
+    usage: {
+      dopełniacz: {
+        description: 'Początek czasu, punkt startu czegoś, oddalenie, źródło pochodzenia zjawiska',
+        examples: ['Od poniedziałku', 'Zacząć od zera', 'Odejść od domu', 'Światło od lampy' ]
+      }
+    }
   },
   {
     name: 'naprzeciw(ko)',
