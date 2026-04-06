@@ -52,6 +52,18 @@ Gdy w grupie znajduje się **mężczyzna**: `studenci`, `policjanci`, `nauczycie
 
 Wszystkie inne przypadki: **kobiety** `studentki`, `nauczycielki`. **Zwierzęta** `koty`, `psy`. **Przedmioty** `telefony`, `mapy`.
 
+## Przypadki
+
+| **Przypadek** | **Pytania główne** | **Pytania dodatkowe** | **Przykład** |
+| --- | --- | --- | --- |
+| **Mianownik** | kto? co? | | nauczyciel |
+| **Dopełniacz** | kogo? czego? | skąd? | nauczyciela |
+| **Celownik** | komu? czemu? | | nauczycielowi |
+| **Biernik** | kogo? co? | | nauczyciela |
+| **Narzędnik** | z kim? z czym? | | nauczycieliem |
+| **Miejscownik** | o kim? o czym? | | nauczycielu |
+| **Wołacz** | o! | | nauczycielu! |
+
 ## Mianownik
 
 ### Rzeczownik liczba mnoga rodzaj męskoosobowy
