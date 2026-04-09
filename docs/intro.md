@@ -131,6 +131,47 @@ Wszystkie inne przypadki: **kobiety** `studentki`, `nauczycielki`. **Zwierzęta*
 
 </div>
 
+## Celownik
+
+### Rzeczownik liczba pojedyncza
+
+<div class="table-w-10-55-35">
+| **Końcówka** | **Występowanie** | **Przykłady** |
+| --- | --- | --- |
+| `-owi` | Rzeczowniki męskie zakończone na spółgłoskę (prawie zawsze) | robotnik**owi**, prokurator**owi** |
+| `-u` | Rzeczowniki męskie (nieliczne), nijakie, niektóre żeńskie | Bog**u**, brat**u**, chłopc**u**, diabł**u**, kot**u**, lw**u**, pan**u**, ps**u**;<br/> dążeni**u**, dzieck**u**, jagniątk**u**, Kong**u**, lass**u**, łącz**u**;<br/> babc**i**, cioci**e**, mam**ie**, taci**e** |
+| `-e` | Rzeczowniki żeńskie oraz męskie zakończone na `-a` | cioci**e**, artyśc**ie** |
+| `-i` | Zakończone na spółgłoskę miękką oraz `l`  | myśl**i**, radośc**i**, sien**i**, topiel**i** |
+| `-y` | Zakończone na spółgłoskę stwardniałą | burz**y**, grabież**y**, plaż**y** |
+</div>
+
+### Rzeczownik liczba mnoga
+
+<div class="table-w-10-55-35">
+| **Końcówka** | **Występowanie** | **Przykłady** |
+| --- | --- | --- |
+| `-om` | Wszystkie rodzaje | braci**om**, jezuit**om**, więźni**om** |
+</div>
+
+### Przymiotnik liczba pojedyncza
+
+<div class="table-w-10-55-35">
+| **Końcówka** | **Występowanie** | **Przykłady** |
+| --- | --- | --- |
+| `-ej` | Rodzaj żeński | dobr**ej**, mił**ej**, rozrzutn**ej** |
+| `-emu` | Rodzaj męski i nijaki | przewrotn**emu**, sympatyczn**emu**, drug**iemu**, t**emu**, moj**emu**, potrójn**emu**, czworaki**emu** |
+</div>
+
+### Przymiotnik liczba mnoga
+
+<div class="table-w-10-55-35">
+| **Końcówka** | **Występowanie** | **Przykłady** |
+| --- | --- | --- |
+| `-im` | Wszystkie rodzaje | tan**im** książk**om**, miękk**im** piór**om**, odporn**ym** przedszkolak**om** |
+| `-ym` | ^ | ^ |
+</div>
+
+
 ## Liczebniki zbiorowe
 
 ### Przykłady
