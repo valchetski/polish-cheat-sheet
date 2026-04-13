@@ -240,14 +240,14 @@ Wszystkie inne przypadki: **kobiety** `studentki`, `nauczycielki`. **Zwierzęta*
 
 ### Zaimki rzeczowne
 
-| Przypadek | ja | ty | on | ona | ono | my | wy | oni/one |
+| Przypadek | ja | ty | ona | on | ono | my | wy | oni/one |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Mianownik** | ja | ty | on | ona | ono | my | wy | oni/one |
-| **Dopełniacz** | mnie | ciebie/cię | jego/go/niego | jej/niej | jego/go/niego | nas | was | ich/nich |
-| **Celownik** | mnie/mi | tobie/ci | jemu/mu/niemu | jej/niej | jemu/mu/niemu | nam | wam | im/nim |
-| **Biernik** | mnie | ciebie/cię | jego/go/niego | ją/nią | je/nie | nas | was | ich/nie |
-| **Narzędnik** | mną | tobą | nim | nią | nim | nami | wami | nimi |
-| **Miejscownik** | mnie | tobie | nim | niej | nim | nas | was | nich |
+| **Mianownik** | ja | ty | ona | on | ono | my | wy | oni/one |
+| **Dopełniacz** | mnie | ciebie/cię | jej/niej | > | jego/go/niego | nas | was | ich/nich |
+| **Celownik** | mnie/mi | tobie/ci | jej/niej | > | jemu/mu/niemu | nam | wam | im/nim |
+| **Biernik** | mnie | ciebie/cię | ją/nią | jego/go/niego | je/nie | nas | was | ich/nie |
+| **Narzędnik** | mną | tobą | nią | > | nim | nami | wami | nimi |
+| **Miejscownik** | mnie | tobie | niej | > | nim | nas | was | nich |
 
 
 ## Stopniowanie
