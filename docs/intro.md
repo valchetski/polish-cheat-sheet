@@ -263,6 +263,26 @@ Wszystkie inne przypadki: **kobiety** `studentki`, `nauczycielki`. **Zwierzęta*
 
 <PrepositionsExplorer />
 
+## Przecinki
+
+### Stawiamy przecinki
+
+| **Sytuacja** | **Opis** | **Przykłady** |
+| --- | --- | --- |
+| **Zdania podrzędne** | Przed spójnikami: `że`, `ponieważ`, `bo`, `aby`, `choć`, `jeżeli`, `jeśli`, `gdy`, `kiedy`<br/><br/>Przed zaimkami: `który`, `co`, `kto`, `gdzie`, `jak` | Powiedziałam im, że nie mogę iść.<br/> Wrócił, ponieważ zapomniał teczki.<br/> Pójdę do nich, choć nie mam ochoty.<br/> Podoba mi się film, który dzisiaj obejrzeliśmy. |
+| **Zdania współrzędne** | Przed spójnikami `przeciwstawnymi`: `ale`, `lecz`, `jednak`, `zaś`, `natomiast`<br/><br/>Przed spójnikami `wynikowymi`: `więc`, `zatem`, `toteż`, `dlatego` | Uwielbiam koty, ale jestem na nie uczulona.<br/> Jestem zmęczony, lecz nie umiem zasnąć.<br/> Dużo ćwiczę, dlatego jestem wytrenowana. |
+| **Powtórzone spójniki** | Gdy spójniki `i`, `ani`, `albo` się powtarzają w zdaniu | I było pysznie, i smacznie, i niedrogo.<br/> Ani nie jadłam, ani nie piłam.<br/> Albo zjem, albo poczekam na rodziców, albo pójdę na spacer. |
+| **Wyliczenia** | Między wymienionym **elementami tego samego typu** | Olek zrobił zadanie, posprzątał pokój, pobawił się z psem.<br/> Sukienka była lekka, zwiewna, delikatna.<br/> Zauważyłam Maćka, Wiolę, Irka i Zenka. |
+| **Wtrącenia** | Wyrażenia wtrącone i zwroty do kogoś.<br/>Jeśli w środku zdania – **z obu stron** | Zrób mi, mamo, kawę?<br/> Proszę pani, upuściła pani szal.<br/> Zupa, moim zdaniem, była smaczna.<br/> Barszcz, mam nadzieję, wyjdzie idealny. |
+| **Imiesłowy** | W konstrukcjach z imiesłowami (gerundium) | Idąc, gwizdał wesoło.<br/> Wszedłszy do pokoju, westchnął. |
+
+### Nie stawiamy przecinków
+
+| **Sytuacja** | **Opis** | **Przykłady** |
+| --- | --- | --- |
+| **Spójniki łączące** | Przed spójnikami: `i`, `oraz`, `zarazem`, `też`, `także`, `ani`, `albo`, `lub`, `czy`, `bądź`<br/><br/>*Wyłączenie: stawiamy, gdy się powtarzają* | Kocham podróże i często wyjeżdżam.<br/> Zrobię zupę lub przygotuję deser.<br/> Poczytam albo pobiegam. |
+
+
 ## Bezosobowe formy
 
 Tworzenie bezosobowych form:
