@@ -337,3 +337,16 @@ W trybie przypuszczającym używamy ich stawiając cząstkę `by`  osobno: `trze
 | `tysiąc`<br/>tysiące | tysiąca<br/>`tysięcy` | tysiącowi<br/>tysiącom | tysiąc<br/>tysiące | tysiącem<br/>tysiącami | tysiącu<br/>tysiącach | tysiąc<br/>tysiące |
 | `pani`<br/>panie | pani<br/>pań | pani<br/>paniom | `panią`<br/>panie | `panią`<br/>paniami | pani<br/>paniach | pani<br/>panie |
 
+## Przymiotniki (-e) vs Przysłówki (-ie)
+
+<div class="table-w-35-65">
+
+| **Kategoria** | **Reguła i przykłady** |
+| --- | --- |
+| **Przymiotnik (-e)** | Opisuje `rzeczownik` – odpowiada na pytania jakie? jaka? jakie?<br/><br/>`To świetne rozwiązanie.` (jakie rozwiązanie?)<br/> `Sytuacja jest trudna.` (jaka sytuacja?) |
+| ^ | W zdaniach typu **`To + przymiotnik`** użyj `-e`<br/><br/>`To niemożliwe.` (przymiotnik)<br/> `To wygodne.` (przymiotnik)<br/> `To interesujące.` (przymiotnik) |
+| **Przysłówek (-ie)** | Opisuje `czasownik`, `przymiotnik` lub inny `przysłówek` – odpowiada na pytania jak? w jaki sposób?<br/><br/>`To niemożliwie do zrobienia.` (jak to zrobić?)<br/> `To świetnie działa.` (jak działa?) |
+
+</div>
+
+
